@@ -1,5 +1,6 @@
 # EnigmaMachine
 A digital Enigma Machine using Python tkinter for the UI coded in the Jupyter Notebook.  
+  
 You can either run a string of text through the enigma machine without the UI or use the UI for real time key press response encoding like the original enigma machine used to use.  
   
 The Machine used up to 10 pairs of unique letters for the plugboard.  
